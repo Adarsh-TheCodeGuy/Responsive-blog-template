@@ -1,0 +1,27 @@
+h2 {
+  margin: 12px;
+}
+
+.contact-form {
+  height: 77vh;
+}
+
+.form-box {
+  margin: 12px;
+}
+
+.form-box input{
+  font-size: 18px;
+  border: 2px solid var(--main-bg-color);
+  border-radius: 5px;
+  width: 44vw;
+  padding: 8px 6px;
+}
+
+.form-box textarea {
+  font-size: 18px;
+  border: 2px solid var(--main-bg-color);
+  border-radius: 4px;
+  width: 44vw;
+  padding: 10px 6px;
+}
